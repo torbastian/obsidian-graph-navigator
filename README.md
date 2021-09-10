@@ -1,3 +1,6 @@
+Seems you cannot hook into the graph view, 
+this was intended to allow navigation in a linked pane, through a selection in the graph pane.
+
 ## Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).

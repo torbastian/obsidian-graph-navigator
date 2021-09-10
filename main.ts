@@ -20,6 +20,7 @@ export default class MyPlugin extends Plugin {
 			new Notice('This is a notice!');
 		});
 
+
 		this.addStatusBarItem().setText('Status Bar Text');
 
 		this.addCommand({
